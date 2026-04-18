@@ -13,3 +13,5 @@ p4 : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/p4.pn
 
 p5 : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/p5.png
 
+p6 : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/p6.png
+
