@@ -27,3 +27,5 @@ StringHandlingDemo : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE
                    : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/StringHandlingDemo.pn
 
 Performancetest : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/PerformanceTest.png
+
+StringBuildingdemo : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/commit/2ad468a7fcba940f93cad6c6dcdc0e3befa3bf57
