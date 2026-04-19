@@ -39,3 +39,5 @@ JListExample : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/
 ColorTabbedPane : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/ColorTabbedPane.png
 
 CountryCapitalList : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/CountryCapitalList.png
+
+TabbedPaneExample ; https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/TabbedPaneExample.java
