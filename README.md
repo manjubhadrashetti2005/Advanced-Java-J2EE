@@ -35,3 +35,5 @@ ButtonExample : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob
 ImagebuttonExample : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/ImagebuttonExample.png
 
 JListExample : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/JListExample.png
+
+ColorTabbedPane : https://github.com/manjubhadrashetti2005/Advanced-Java-J2EE/blob/main/ColorTabbedPane.png
